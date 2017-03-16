@@ -1,0 +1,12 @@
+<head>
+		<title>Some pictures of fun projects</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+  <nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="https://i.imgur.com/1NmGgDUh.jpg">Wishlist</a></li>
+        		<li><a href="https://i.imgur.com/1NmGgDUh.jpg">CV</a></li>
+        		<li><a href="https://i.imgur.com/1NmGgDUh.jpg">Projects</a></li>
